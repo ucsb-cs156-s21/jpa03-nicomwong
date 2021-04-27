@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s21/jpa03-nicomwong
 
-On Heroku: https://jpa03-nicomwong.herokuapp.com
+On Heroku: https://jpa03-nicholasmwong.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-nicomwong
 
